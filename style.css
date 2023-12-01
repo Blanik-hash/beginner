@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  display: flex;
+  text-decoration: none;
+  justify-content: space-between;
+  text-align: center;
+  list-style-type: none;
+}
